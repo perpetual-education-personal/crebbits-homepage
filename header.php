@@ -16,26 +16,19 @@
 
 	<body>
 		<header>
-			<h1 class='loud-voice'><em>PSSST</em> (CSS)</h1>
+			<!-- <h1 class='loud-voice'>Crebbits</h1> -->
+
+			<nav>
+				<ul>
+					<li>
+						<a href="index.php">Home</a>
+					</li>
+
+					<li>
+						<a href="instructions.php">Instructions</a>
+					</li>
+				</ul>
+			</nav>
 		</header>
 
 		<main>
-
-			<section class='section-name' id='and-its-id'>
-			<inner-column>
-
-
-				<h1>CREBBBBBITSSSS</h1>
-
-
-			</inner-column>
-			</section>
-
-		</main>
-
-		<footer>
-			<h2>Zee footah</h2>
-		</footer>
-	</body>
-
-</html>

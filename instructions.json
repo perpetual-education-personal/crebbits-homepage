@@ -1,0 +1,20 @@
+[
+	{
+		"heading": "Section one heading here",
+		"content": [
+			"Paragraph one here",
+			"Paragraph two here"
+		],
+		"supportingImage": "https://peprojects.dev/images/landscape.png",
+		"bonus": "One extra reminder type sentense here..."
+	},
+	{
+		"heading": "Section one heading here",
+		"content": [
+			"Paragraph one here",
+			"Paragraph two here"
+		],
+		"supportingImage": "https://peprojects.dev/images/landscape.png",
+		"bonus": "One extra reminder type sentense here..."
+	}
+]
