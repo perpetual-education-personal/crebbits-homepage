@@ -32,14 +32,17 @@ https://crebbits.com
 - [ ] Get the wireframes / pages in place
 - - [ ] get signoff
 
-![Website wireframes screenshot](https://files.slack.com/files-pri/T032HKAK98B-F04375LSVK5/cleanshot_2022-09-20_at_14.12.40_2x.png)
+![Website wireframes screenshot](images/readme/wireframe.png)
 
 
 ### Get instructions up
 
 - [ ] Get instructions into one place / just typed out with headings? JSON?
+- - [ ] Prototype how instructions will work on small and large screens - and how imags will be incorperated
 - - [ ] Content strategy / base pages in place
 - - [ ] Then the style tiles will have more concrete content to style
+
+![Game instructions screenshot](images/readme/instructions.png)
 
 
 ### Style tiles
