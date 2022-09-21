@@ -9,12 +9,11 @@
 		"bonus": "One extra reminder type sentense here..."
 	},
 	{
-		"heading": "Section one heading here",
+		"heading": "Section one heading here 2",
 		"content": [
 			"Paragraph one here",
 			"Paragraph two here"
 		],
-		"supportingImage": "https://peprojects.dev/images/landscape.png",
 		"bonus": "One extra reminder type sentense here..."
 	}
 ]
