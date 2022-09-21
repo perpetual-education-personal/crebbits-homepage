@@ -32,9 +32,7 @@
 					
 					if (isset($section['bonus']))	{
 						$bonus = $section['bonus'];
-					}
-				}
-			?>
+					} ?>
 				<li>
 					<section>
 						<h2 class='attention-voice'><?=$heading?></h2>
@@ -52,7 +50,7 @@
 						</div>
 					</section>
 				</li>
-			<?php  ?>		
+			<?php } ?>		
 	</ol>
 
 
