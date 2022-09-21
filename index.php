@@ -1,11 +1,21 @@
 <?php include('header.php'); ?>
 
+<?php 
+
+	if (isset($_GET['page'])) {
+		$page = $_GET['page'];
+	}	else {
+		$page = 'home';
+	}
+
+?>
+
 
 <section class='section-name' id='and-its-id'>
 <inner-column>
 
 
-	<h1 class='loud-voice'>CREBBITS</h1>
+<?php include($page . ".php"); ?>
 
 
 </inner-column>
