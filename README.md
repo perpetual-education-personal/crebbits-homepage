@@ -32,6 +32,8 @@ https://crebbits.com
 - [ ] Get the wireframes / pages in place
 - - [ ] get signoff
 
+![Website wireframes screenshot](https://files.slack.com/files-pri/T032HKAK98B-F04375LSVK5/cleanshot_2022-09-20_at_14.12.40_2x.png)
+
 
 ### Get instructions up
 
