@@ -41,13 +41,17 @@
 							<p><?=$paragraph?></p>
 						<?php	} ?>
 
-						<picture class='supporting-image'>
-							<img src="https://www.peprojects.dev/images/square.jpg" alt="">
-						</picture>
+						<?php if (isset($image)) { ?>
+							<picture class='supporting-image'>
+								<img src="<?=$image?>" alt="">
+							</picture>
+						<?php } ?>
 
-						<div class="bonus">
-							<p><?=$bonus?></p>
-						</div>
+						<?php	if (isset($bonus)) { ?>
+							<div class="bonus">
+								<p><?=$bonus?></p>
+							</div>
+						<?php	} ?>
 					</section>
 				</li>
 			<?php } ?>		
