@@ -5,8 +5,7 @@
 			"End up with the most points after three rounds.",
 			"This game has two versions – basic and advanced. Start with basic until you’re comfortable then move on to the advanced version!"
 		],
-		"supportingImage": "https://peprojects.dev/images/landscape.png",
-		"bonus": "bonus"
+		"supportingImage": "https://peprojects.dev/images/landscape.png"
 	},
 	{
 		"heading": "Basic Version Setup",
@@ -15,16 +14,14 @@
 			"2. Keep the blue and red decks separate.",
 			"3. Shuffle each deck and set them in the middle of the table. Each deck has its own discard pile next to it."
 		],
-		"supportingImage": "https://peprojects.dev/images/landscape.png",
-		"bonus": "bonus"
+		"supportingImage": "https://peprojects.dev/images/landscape.png"
 	},
 	{
 		"heading": "Start of Game",
 		"content": [
 			"Each player draws 5 blue cards (credits) and 5 red cards (debits). Don’t show the other players your cards! "
 		],
-		"supportingImage": "https://peprojects.dev/images/landscape.png",
-		"bonus": "bonus"
+		"supportingImage": "https://peprojects.dev/images/landscape.png"
 	},
 	{
 		"heading": "How to Play a Turn",
@@ -35,8 +32,7 @@
 			"4. After discarding, it is the next player's turn.",
 			"5. If the draw pile runs out, leave the top card, pick up the rest of the discard pile, shuffle and place the cards face down as the new draw pile."
 		],
-		"supportingImage": "https://peprojects.dev/images/landscape.png",
-		"bonus": "bonus"
+		"supportingImage": "https://peprojects.dev/images/landscape.png"
 	},
 	{
 		"heading": "Basic gameplay",
@@ -50,8 +46,7 @@
 		"content": [
 			"The round ends when a player runs out of cards in their hand. Once the round ends you calculate the score for that round."
 		],
-		"supportingImage": "https://peprojects.dev/images/landscape.png",
-		"bonus": "bonus"
+		"supportingImage": "https://peprojects.dev/images/landscape.png"
 	},
 	{
 		"heading": "Calculating Score ",
