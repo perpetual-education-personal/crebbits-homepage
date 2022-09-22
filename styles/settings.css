@@ -30,7 +30,7 @@ html {
 
 		--corners: 10px; /* or whatevers */
 
-		--paper: red;
-		--ink: yellow;
+		--paper: #162c35;
+		--ink: #ebb64b;
 	}
 }
