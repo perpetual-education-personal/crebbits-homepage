@@ -41,7 +41,7 @@
 							<p><?=$paragraph?></p>
 						<?php	} ?>
 
-						<picture>
+						<picture class='supporting-image'>
 							<img src="https://www.peprojects.dev/images/square.jpg" alt="">
 						</picture>
 
