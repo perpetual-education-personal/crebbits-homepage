@@ -27,6 +27,10 @@
 					<li>
 						<a href="instructions.php">Instructions</a>
 					</li>
+
+					<li>
+						<a href="store.php">Store</a>
+					</li>
 				</ul>
 			</nav>
 		</header>
