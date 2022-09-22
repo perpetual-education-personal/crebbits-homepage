@@ -21,11 +21,11 @@
 			<nav>
 				<ul>
 					<li>
-						<a href="?page=home">Home</a>
+						<a href="index.php">Home</a>
 					</li>
 
 					<li>
-						<a href="?page=instructions">Instructions</a>
+						<a href="instructions.php">Instructions</a>
 					</li>
 				</ul>
 			</nav>
