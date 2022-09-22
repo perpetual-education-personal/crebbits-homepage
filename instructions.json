@@ -13,7 +13,7 @@
 			"2. Keep the blue and red decks separate.",
 			"3. Shuffle each deck and set them in the middle of the table. Each deck has its own discard pile next to it."
 		],
-		"supportingImage": "https://peprojects.dev/images/portrait.jpg"
+		"supportingImage": ""
 	},
 	{
 		"heading": "Start of Game",
@@ -30,14 +30,14 @@
 			"4. After discarding, it is the next player's turn.",
 			"5. If the draw pile runs out, leave the top card, pick up the rest of the discard pile, shuffle and place the cards face down as the new draw pile."
 		],
-		"supportingImage": "https://peprojects.dev/images/portrait.jpg"
+		"supportingImage": ""
 	},
 	{
 		"heading": "Basic gameplay",
 		"content": [
 			"Match your blue cards with your red cards to create matches. Matches can only be created with corresponding values (Ex. Red <1,000> must be matched to Blue 1,000.) But be careful! The order you stack your matches matters and red cards will count against your score at the end of the round, so play smart! Once you play a match you cannot rearrange the order of your stacks."
 		],
-		"supportingImage": "https://peprojects.dev/images/portrait.jpg"
+		"supportingImage": ""
 	},
 	{
 		"heading": "End of Round",
@@ -52,7 +52,7 @@
 			"The blue cards are positive and will add to your score - the red cards are negative and will subtract from your score. The stack with the highest score is known as the “Stack Score”, which you will use to find your total score for the round. In the example Stack 1 has the highest number and will be used as the “Stack Score” for the round.",
 			"Any player who still has cards in their hand must add up the values on the red cards to get their “hand score” which will be subtracted from their stack score. This could result in a negative score for the round!"
 		],
-		"supportingImage": "https://peprojects.dev/images/portrait.jpg",
+		"supportingImage": "",
 		"bonus": "Play 3 rounds (or a different number if you want) and add up each player’s score from each round. The player with the highest score at the end of 3 rounds wins!"
 	},
 	{
