@@ -1,0 +1,50 @@
+
+
+main .buy {
+	background-color: #7fcae9;
+}
+
+.buy inner-column {
+	max-width: 800px;
+}
+
+buy-it {
+	display: grid;
+	grid-template-rows: 1fr 50px;
+	align-items: center;
+	justify-items: center;
+	padding: 20px;
+	gap: 20px;
+}
+
+cred-talking {
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	align-items: center;
+}
+
+@media (min-width: 605px) {
+	buy-it {
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: none;
+		gap: 0;
+	}
+}
+
+.cred {
+	max-width: 100px;
+}
+
+.buy-button {
+	border: solid black 2px;
+	color: black;
+	border-radius: 12px;
+	padding: 8px 15px;
+}
+
+.buy-button:hover {
+	background-color: #224b85;
+	color: #7fcae9;
+	border: solid #224b85 2px;
+}
