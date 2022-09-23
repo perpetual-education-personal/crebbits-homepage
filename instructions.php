@@ -30,8 +30,8 @@
 						$image = $section['supportingImage'];
 					}
 					
-					if (isset($section['bonus']))	{
-						$bonus = $section['bonus'];
+					if (isset($section['tips']))	{
+						$tips = $section['tips'];
 					} ?>
 				<li>
 					<section>
@@ -47,10 +47,12 @@
 							</picture>
 						<?php } ?>
 
-						<?php	if (isset($bonus)) { ?>
-							<div class="bonus">
-								<p><?=$bonus?></p>
-							</div>
+						<?php	if (isset($tips)) { ?>
+							<?php foreach ($tips as $tip) { ?>
+								<div class="tip">
+									<p><?=$tip?></p>
+								</div>
+							<?php } ?>
 						<?php	} ?>
 					</section>
 				</li>
