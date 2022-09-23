@@ -65,7 +65,9 @@
 					<?php	if (isset($tips)) { ?>
 						<?php foreach ($tips as $tip) { ?>
 							<div class="tip">
-								<p><?=$tip?></p>
+								<h4>Tip!</h4>
+								
+								<p><em><?=$tip?></em></p>
 							</div>
 						<?php } ?>
 					<?php	} ?>
