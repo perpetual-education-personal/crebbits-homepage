@@ -32,14 +32,27 @@
 				
 				if (isset($section['tips']))	{
 					$tips = $section['tips'];
-				} ?>
+				} 
+
+				if (isset($section['specials'])) {
+					$specials = $section['specials'];
+				}
+		?>
 			<li>
 				<section>
 					<h2 class='attention-voice'><?=$heading?></h2>
 
 					<?php foreach ($content as $paragraph) { ?>
-						<p><?=$paragraph?></p>
+							<p><?=$paragraph?></p>
 					<?php	} ?>
+
+					<?php if (isset($specials)) { ?>
+						<?php foreach ($specials as $special) { ?>
+							<h3 class="special-card"><?=$special['card']?></h3>
+
+							<p class='special-info'><?=$special['info'] ?></p>
+						<?php } ?>
+					<?php } ?>
 
 					<?php if (isset($images)) { ?>
 						<?php foreach ($images as $image) { ?>

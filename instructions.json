@@ -20,7 +20,7 @@
 	{
 		"heading": "Start of Game",
 		"content": [
-			"Each player draws 5 blue cards (credits) and 5 red cards (debits). Don’t show the other players your cards! "
+			"Each player draws 5 blue cards (credits) and 5 red cards (debits). Don’t show the other players your cards!"
 		]
 	},
 	{
@@ -69,10 +69,24 @@
 	{
 		"heading": "Advanced Version",
 		"content": [
-			"For the advanced version, shuffle the “Wild”, “Steal”, and “Trade” cards into the decks that match their color. ",
-			"“Wild” cards can be used in place of any number to make a match. You can use a red “Wild” and a blue 10,000 to make a match for example! Be careful though! A red “Wild” in your hand at the end of a round is <10,000> deducted from your score!",
-			"When a “Trade” card is played you pick any two players (you can pick yourself as one but you don’t have to) who will look at each other’s hands and take a card from the other player that matches the color of the “Trade” card to keep for themselves. After they trade, the player who played the “Trade” card draws from the deck that matches the color of the “Trade” card and then places the “Trade” card on the bottom of the draw pile to end the turn.",
-			"When a “Steal” card is played you pick one other player. Look at their hand and take one card that matches the color of the “Steal” card you played. The player stolen from then draws from the top of the draw pile that matches the color of the “Steal” card. The discard pile is off limits. Then, place the “Steal” card on the bottom of the draw pile to end the turn."
+			"For the advanced version, shuffle the “Wild”, “Steal”, and “Trade” cards into the decks that match their color."			
+		],
+		"specials": [
+			{
+				"type": "card",
+				"card": "wild",
+				"info": "“Wild” cards can be used in place of any number to make a match. You can use a red “Wild” and a blue 10,000 to make a match for example! Be careful though! A red “Wild” in your hand at the end of a round is <10,000> deducted from your score!"
+			},
+			{
+				"type": "card",
+				"card": "trade",
+				"info": "When a “Trade” card is played you pick any two players (you can pick yourself as one but you don’t have to) who will look at each other’s hands and take a card from the other player that matches the color of the “Trade” card to keep for themselves. After they trade, the player who played the “Trade” card draws from the deck that matches the color of the “Trade” card and then places the “Trade” card on the bottom of the draw pile to end the turn."
+			},
+			{
+				"type": "card",
+				"card": "steal",
+				"info": "When a “Steal” card is played you pick one other player. Look at their hand and take one card that matches the color of the “Steal” card you played. The player stolen from then draws from the top of the draw pile that matches the color of the “Steal” card. The discard pile is off limits. Then, place the “Steal” card on the bottom of the draw pile to end the turn."
+			}
 		],
 		"tips": [
 			"“Trade” and “Steal” cards can be played on your turn without making a match. They can also be discarded without being used if desired. If they are drawn at the beginning of a turn, they can be played in that turn.  —(This would be good information to put in a bubble off to the side or something)",
