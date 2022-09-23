@@ -36,6 +36,7 @@ body {
 
 .supporting-image {
 	max-width: 400px;
+	margin-top: 1rem;
 }
 
 .special-card {
@@ -50,4 +51,9 @@ body {
 	border: 1px solid var(--ink);
 	border-radius: 25px;
 	padding: 1rem;
+}
+
+.tip h4 {
+	font-size: 1.3rem;
+	font-weight: 800;
 }
