@@ -12,4 +12,14 @@
 </section>
 
 
+<section class='buy'>
+<inner-column>
+
+<?php include ('modules/buy-it/buy-it.php'); ?>
+
+</inner-column>
+</section>
+
+
+
 <?php include('footer.php'); ?>

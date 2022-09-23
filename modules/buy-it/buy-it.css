@@ -37,8 +37,8 @@ cred-talking {
 }
 
 .buy-button {
-	border: solid black 2px;
-	color: black;
+	border: solid #224b85 2px;
+	color: #224b85;
 	border-radius: 12px;
 	padding: 8px 15px;
 }
