@@ -13,7 +13,9 @@
 			"2. Keep the blue and red decks separate.",
 			"3. Shuffle each deck and set them in the middle of the table. Each deck has its own discard pile next to it."
 		],
-		"supportingImage": ""
+		"supportingImage": [
+			""
+		]
 	},
 	{
 		"heading": "Start of Game",
@@ -30,7 +32,10 @@
 			"4. After discarding, it is the next player's turn.",
 			"5. If the draw pile runs out, leave the top card, pick up the rest of the discard pile, shuffle and place the cards face down as the new draw pile."
 		],
-		"supportingImage": ""
+		"supportingImage": [
+			"images/cards/cards-1000.png",
+			"images/cards/stacks.png"
+		]
 	},
 	{
 		"heading": "Basic gameplay",
