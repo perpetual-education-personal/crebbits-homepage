@@ -37,3 +37,9 @@ body {
 .supporting-image {
 	max-width: 400px;
 }
+
+.special-card {
+	font-size: 1.4rem;
+	text-transform: capitalize;
+	margin-top: 1rem;
+}
