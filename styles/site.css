@@ -75,6 +75,79 @@ board-game {
 
 
 
+
+/* HEADER */
+
+header {
+	background-color: white;
+	padding: 20px;
+}
+
+header nav {
+	display: grid;
+	grid-template-rows: 1fr 16px;
+	gap: 10px;
+}
+
+@media(min-width: 500px) {
+	header nav {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: none;
+	}
+}
+
+@media(min-width: 675px) {
+	header nav {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-rows: none;
+	}
+}
+
+header picture {
+	display: flex;
+	justify-content: center;
+}
+
+@media(min-width: 500px) {
+	header picture {
+		display: flex;
+		justify-content: flex-start;
+	}
+}
+
+header picture img {
+	max-width: 100px;
+}
+
+header nav ul {
+	display: flex;
+	justify-content: center;
+	margin: 0;
+}
+
+@media(min-width: 500px) {
+	header nav ul {
+		display: flex;
+		align-items: center;
+		padding: 0 20px;
+
+	}
+}
+
+header nav ul li a {
+	color: #4498d4;
+}
+
+header nav ul li a:hover {
+	color: #224b85;
+}
+
+
+
+
+
 /* FOOTER */
 
 footer {
@@ -103,6 +176,9 @@ footer nav ul a:hover {
 	color: #224b85;
 }
 
+footer picture img {
+	max-width: 100px;
+}
 
 
 
