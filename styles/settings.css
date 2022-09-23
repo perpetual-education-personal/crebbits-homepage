@@ -16,7 +16,7 @@ html {
 	--ink: var(--black);
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
 	html {
 		--black: #111111;
 		--white: #efefef;
@@ -33,4 +33,4 @@ html {
 		--paper: #162c35;
 		--ink: #ebb64b;
 	}
-}
+}*/
