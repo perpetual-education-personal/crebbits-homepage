@@ -5,7 +5,9 @@
 		<inner-column>
 			<nav>
 					<ul>
-						<li>CREBBITS</li>
+						<picture>
+							<a href="index.php"><img src="images/boardgame/blue-logo.svg" alt=""></a>
+						</picture>
 						<li>
 							<a href="index.php">Home</a>
 						</li>
