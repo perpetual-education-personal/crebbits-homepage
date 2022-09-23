@@ -2,5 +2,5 @@ header nav ul {
 	margin-top: 1rem;
 	display: flex;
 	flex-direction: row;
-	gap: 2rem;
+	gap: 3rem;
 }
