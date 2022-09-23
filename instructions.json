@@ -21,6 +21,9 @@
 		"heading": "Start of Game",
 		"content": [
 			"Each player draws 5 blue cards (credits) and 5 red cards (debits). Don’t show the other players your cards!"
+		],
+		"supportingImage": [
+			""
 		]
 	},
 	{
