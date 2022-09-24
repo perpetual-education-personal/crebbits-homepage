@@ -72,6 +72,10 @@ section inner-column {
 	font-weight: 800;
 }
 
+.instructions p {
+	text-align: center;
+}
+
 
 
 /* Store style */
