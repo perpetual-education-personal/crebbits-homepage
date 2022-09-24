@@ -40,6 +40,10 @@ section inner-column {
 	align-items: center;
 }
 
+picture {
+	margin-top: 1rem;
+}
+
 /*INSTRUCTIONS PAGE*/
 
 .supporting-image {
