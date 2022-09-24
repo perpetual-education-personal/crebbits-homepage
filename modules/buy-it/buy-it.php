@@ -22,9 +22,12 @@
 			<picture class="cred">
 				<img src="<?=$image?>" alt="">
 			</picture>
-			<p><?=$content?></p>
 		</cred-talking>
+
+		<p><?=$content?></p>
+
 		<a class="buy-button action-voice" href="#"><?=$button?></a>
+		
 
 		<?php } ?>
 
