@@ -20,6 +20,14 @@
 </inner-column>
 </section>
 
+<section class='learn'>
+<inner-column>
+
+<?php include ('modules/see-instructions/see-instructions.php'); ?>
+
+</inner-column>
+</section>
+
 
 
 <?php include('footer.php'); ?>
