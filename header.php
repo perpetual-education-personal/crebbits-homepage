@@ -7,8 +7,8 @@
 		<meta name='viewport' content='width=device-width, initial-scale=1'>
 
 		<title>Crebbits</title>
-		<meta name='description' content=' CSS methodology so great, it needed a name.'>
-		<meta property='og:image' content='$todo'>
+		<meta name='description' content='Frogs & Numbers & Cards!'>
+		<meta property='og:image' content='images/frogs/cred.svg'>
 
 		<link rel='stylesheet' href='styles/site.css'>
 	</head>
