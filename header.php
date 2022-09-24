@@ -8,7 +8,7 @@
 
 		<title>Crebbits</title>
 		<meta name='description' content='Frogs & Numbers & Cards!'>
-		<meta property='og:image' content='images/frogs/cred.svg'>
+		<meta property='og:image' content='images/boardgame/logo.jpg'>
 
 		<link rel='stylesheet' href='styles/site.css'>
 	</head>
