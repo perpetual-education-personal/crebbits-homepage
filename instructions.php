@@ -15,7 +15,7 @@
 
 	<h1 class='loud-voice'>Instructions</h1>
 
-	<ol>
+	<ol class='instructions'>
 		<?php	
 			foreach($pageData as $section) { 
 				if (isset($section['heading'])) {
@@ -48,7 +48,7 @@
 
 					<?php if (isset($specials)) { ?>
 						<?php foreach ($specials as $special) { ?>
-							<h3 class="special-card"><?=$special['card']?></h3>
+							<h3 class="special-title"><?=$special['title']?></h3>
 
 							<p class='special-info'><?=$special['info'] ?></p>
 						<?php } ?>
