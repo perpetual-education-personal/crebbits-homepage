@@ -24,9 +24,11 @@
 			</picture>
 		</cred-talking>
 
-		<p><?=$content?></p>
+		<text-content>
+			<p><?=$content?></p>
 
-		<a class="buy-button action-voice" href="#"><?=$button?></a>
+			<a class="buy-button action-voice" href="#"><?=$button?></a>
+		</text-content>
 		
 
 		<?php } ?>
