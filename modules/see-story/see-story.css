@@ -1,14 +1,14 @@
 
 
-main .learn {
-	background-color: #dd7876;
+main .story {
+	background-color: #7fcae9;
 }
 
-.learn inner-column {
+.story inner-column {
 	max-width: 800px;
 }
 
-see-instructions {
+see-story {
 	display: flex;
 	flex-direction: row;	
 	align-items: center;
@@ -30,7 +30,7 @@ text-content p {
 }
 
 @media (min-width: 605px) {
-	see-instructions {
+	see-story {
 		justify-content: space-between;
 		gap: 2rem;
 	}
@@ -46,7 +46,7 @@ text-content p {
 	max-width: 100px;
 }
 
-.learn-button {
+.story-button {
 	border: solid #224b85 2px;
 	font-size: 1.1rem;
 	color: #224b85;
@@ -54,7 +54,7 @@ text-content p {
 	padding: 8px 15px;
 }
 
-.learn-button:hover {
+.story-button:hover {
 	background-color: #224b85;
 	color: #7fcae9;
 	border: solid #224b85 2px;

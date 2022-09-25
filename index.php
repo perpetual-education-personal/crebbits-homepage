@@ -28,6 +28,14 @@
 </inner-column>
 </section>
 
+<section class='story'>
+<inner-column>
+
+<?php include ('modules/see-story/see-story.php'); ?>
+
+</inner-column>
+</section>
+
 
 
 <?php include('footer.php'); ?>
