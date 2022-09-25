@@ -54,6 +54,10 @@ h1 {
 	margin-top: 3rem;
 }
 
+h1 + * {
+	margin-top: 2rem;
+}
+
 h2 {
 	margin-top: 2rem;
 }
