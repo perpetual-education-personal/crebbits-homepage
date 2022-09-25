@@ -8,7 +8,7 @@
 	<cred-talking>
 		
 		<picture class="cred">
-			<img src="images/frogs/cred.svg" alt="">
+			<img src="images/frogs/bits.png" alt="">
 		</picture>
 
 	</cred-talking>
