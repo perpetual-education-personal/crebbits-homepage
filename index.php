@@ -1,11 +1,11 @@
 <?php include('header.php'); ?>
 
 
-<<<<<<< HEAD
+
 <section class='page-title' id='and-its-id'>
-=======
+
 <section class='header' id='and-its-id'>
->>>>>>> 5c6015c (edited home module links)
+
 <inner-column>
 
 	<h1 class='loud-voice'>CREBBITS</h1>
