@@ -27,7 +27,7 @@
 		<text-content>
 			<p><?=$content?></p>
 
-			<a class="buy-button action-voice" href="#"><?=$button?></a>
+			<a class="buy-button action-voice" href="store.php"><?=$button?></a>
 		</text-content>
 		
 
