@@ -19,7 +19,7 @@
 		<inner-column>
 			<nav>
 				<picture>
-					<a href="index.php"><img src="images/boardgame/blue-logo.svg" alt=""></a>
+					<a href="index.php"><img src="images/boardgame/logo-text.png"></a>
 				</picture>
 				<ul>
 					<li>
