@@ -1,16 +1,20 @@
-<see-instructions>
+<section class='learn'>
+<inner-column>
+	<see-instructions>
 
-	<text-content>
-		<p>Learn how to play Crebbits!</p>
-		<a class="learn-button action-voice" href="instructions.php">How it works</a>
-	</text-content>
+		<text-content>
+			<p>Learn how to play Crebbits!</p>
+			<a class="learn-button action-voice" href="instructions.php">How it works</a>
+		</text-content>
 
-	<cred-talking>
-		
-		<picture class="cred">
-			<img src="images/frogs/bits.png" alt="">
-		</picture>
+		<cred-talking>
+			
+			<picture class="cred">
+				<img src="images/frogs/bits.png" alt="">
+			</picture>
 
-	</cred-talking>
+		</cred-talking>
 
-</see-instructions>
+	</see-instructions>
+</inner-column>
+</section>

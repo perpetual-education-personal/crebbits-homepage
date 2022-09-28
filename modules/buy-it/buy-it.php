@@ -1,3 +1,5 @@
+<section class='buy'>
+<inner-column>
 	<buy-it>
 
 		<?php	
@@ -34,3 +36,5 @@
 		<?php } ?>
 
 	</buy-it>
+</inner-column>
+</section>
