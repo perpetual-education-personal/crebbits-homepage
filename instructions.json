@@ -42,7 +42,7 @@
 	{
 		"heading": "Basic gameplay",
 		"content": [
-			"Match your blue cards with your red cards to create matches. Matches can only be created with corresponding values (Ex. Red <1,000> must be matched to Blue 1,000.) But be careful! The order you stack your matches matters and red cards will count against your score at the end of the round, so play smart! Once you play a match you cannot rearrange the order of your stacks."
+			"Match your blue cards with your red cards to create matches. Matches can only be created with corresponding values (Ex. Red <1,000> must be matched to Blue 1,000.) But be careful! The order you stack your matches matters and red cards will count against your score at the end of the round, so play smart! Once you play a match you cannot rearrange the order of your matches."
 		],
 		"supportingImage": [
 			""
