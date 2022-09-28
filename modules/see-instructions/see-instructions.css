@@ -17,7 +17,7 @@ see-instructions {
 	gap: 1rem;
 }
 
-text-content {
+.learn text-content {
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
@@ -35,8 +35,8 @@ text-content p {
 		gap: 2rem;
 	}
 
-	text-content {
-		flex-direction: row;
+	.learn text-content {
+		flex-direction: row-reverse;
 		justify-content: space-between;
 		gap: 4rem;
 	}
