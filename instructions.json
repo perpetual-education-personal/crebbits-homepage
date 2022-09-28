@@ -30,14 +30,13 @@
 		"heading": "How to Play a Turn",
 		"content": [
 			"1. Each turn you will draw one card, red or blue. You can choose the top card from either the draw pile or discard pile.",
-			"2. You will play matches by laying them down side by side in front of you (1). You can choose to play any number of matches per turn or no matches at all. Each subsequent match is stacked on top of the old match but you must alternate the colors (2)",
-			"3. To end your turn, you will discard a card of the same color that you drew at the beginning of that turn, by placing it face up in the discard pile. You must end your turn with an equal number of blue and red cards in your hand.",
-			"4. After discarding, it is the next player's turn.",
-			"5. If the draw pile runs out, leave the top card, pick up the rest of the discard pile, shuffle and place the cards face down as the new draw pile."
-		],
-		"supportingImage": [
-			"images/cards/cards-1000.png",
-			"images/cards/stacks.png"
+			"2. You will play matches by laying them down side by side in front of you.",
+			"<picture><img src='images/cards/cards-1000.png'></picture>",
+			"3. You can choose to play any number of matches per turn or no matches at all. Each subsequent match is stacked on top of the old match but you must alternate the colors.",
+			"<picture><img src='images/cards/stacks.png'></picture>",
+			"4. To end your turn, you will discard a card of the same color that you drew at the beginning of that turn, by placing it face up in the discard pile. You must end your turn with an equal number of blue and red cards in your hand.",
+			"5. After discarding, it is the next player's turn.",
+			"6. If the draw pile runs out, leave the top card, pick up the rest of the discard pile, shuffle and place the cards face down as the new draw pile."
 		]
 	},
 	{
