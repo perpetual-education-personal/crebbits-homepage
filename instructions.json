@@ -9,9 +9,11 @@
 	{
 		"heading": "Basic Version Setup",
 		"content": [
-			"1. Remove the cards that say “Steal”, “Trade” and “Wild”. These are only used in the advanced version.",
-			"2. Keep the blue and red decks separate.",
-			"3. Shuffle each deck and set them in the middle of the table. Each deck has its own discard pile next to it."
+			"<ol>",
+			"<li>1. Remove the cards that say “Steal”, “Trade” and “Wild”. These are only used in the advanced version.</li>",
+			"<li>2. Keep the blue and red decks separate.</li>",
+			"<li>3. Shuffle each deck and set them in the middle of the table. Each deck has its own discard pile next to it.</li>",
+			"</ol>"
 		],
 		"supportingImage": [
 			"images/cards/piles.png"
@@ -29,14 +31,16 @@
 	{
 		"heading": "How to Play a Turn",
 		"content": [
-			"1. Each turn you will draw one card, red or blue. You can choose the top card from either the draw pile or discard pile.",
-			"2. You will play matches by laying them down side by side in front of you.",
+			"<ol>",
+			"<li>1. Each turn you will draw one card, red or blue. You can choose the top card from either the draw pile or discard pile.</li>",
+			"<li>2. You will play matches by laying them down side by side in front of you.</li>",
 			"<picture><img src='images/cards/cards-1000.png'></picture>",
-			"3. You can choose to play any number of matches per turn or no matches at all. Each subsequent match is stacked on top of the old match but you must alternate the colors.",
+			"<li>3. You can choose to play any number of matches per turn or no matches at all. Each subsequent match is stacked on top of the old match but you must alternate the colors.</li>",
 			"<picture><img src='images/cards/stacks.png'></picture>",
-			"4. To end your turn, you will discard a card of the same color that you drew at the beginning of that turn, by placing it face up in the discard pile. You must end your turn with an equal number of blue and red cards in your hand.",
-			"5. After discarding, it is the next player's turn.",
-			"6. If the draw pile runs out, leave the top card, pick up the rest of the discard pile, shuffle and place the cards face down as the new draw pile."
+			"<li>4. To end your turn, you will discard a card of the same color that you drew at the beginning of that turn, by placing it face up in the discard pile. You must end your turn with an equal number of blue and red cards in your hand.</li>",
+			"<li>5. After discarding, it is the next player's turn.</li>",
+			"<li>6. If the draw pile runs out, leave the top card, pick up the rest of the discard pile, shuffle and place the cards face down as the new draw pile.</li>",
+			"</ol>"
 		]
 	},
 	{
