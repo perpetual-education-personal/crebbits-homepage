@@ -47,15 +47,15 @@ text-content p {
 }
 
 .learn-button {
-	border: solid #224b85 2px;
+	border: solid #91201f 2px;
 	font-size: 1.1rem;
-	color: #224b85;
+	color: #91201f;
 	border-radius: 12px;
 	padding: 8px 15px;
 }
 
 .learn-button:hover {
-	background-color: #224b85;
-	color: #7fcae9;
-	border: solid #224b85 2px;
+	background-color: #91201f;
+	color: #dd7876;
+	border: solid #dd7876 2px;
 }
